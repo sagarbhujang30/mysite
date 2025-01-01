@@ -3,3 +3,5 @@ This file is created for adding matadata of the project.
 This is a web development project. The project name is mysite.
 
 Today is last day of the year.
+
+Today is first day of the year.
